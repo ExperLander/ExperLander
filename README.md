@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @ExperLander
-- 👀 I’m interested in coding!
 - 📫 How to reach me. Join my discord server https://discord.gg/ZuqqRXEey9
 
 <!---
